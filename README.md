@@ -6,7 +6,7 @@ ROT Decoder is a mini-program that reads in a text file containing an encoded me
 
 ROT Decoder includes text files provided by Utah State University's computer science department to which I give credit. Major functionality code is my own work. 
 
-## Running Top Films
+## Running ROT Decoder
 
 Run main.cpp using with prefered C++ IDE. secretMessage.txt contains the the encoded message to be decoded. 
 
